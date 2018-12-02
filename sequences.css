@@ -1,0 +1,91 @@
+.flex-container {
+  display: flex;
+  height: 200px;
+  align-items: center;
+	 
+}
+.fil {
+	margin-top: 30vh;
+	font-size: 5vh;
+		
+}
+
+#left {
+    float:left;
+  	width: 60vw;
+	margin-left: 3;
+}
+
+#right {
+    float:right;
+    width: 40vw;
+	
+}
+.bord{
+    border: 5px solid red;
+}
+#main {
+  float: left;
+  width: 750px;
+}
+
+#sidebar {
+  float: right;
+  width: 100px;
+}
+
+#sequence {
+  width: 600px;
+  height: 70px;
+}
+
+#legend {
+  padding: 10px 0 0 3px;
+}
+
+#sequence text, #legend text {
+  font-weight: 600;
+  fill: #fff;
+}
+p {
+	text-align: center;
+}
+#chart {
+  position: relative;
+}
+
+#chart path {
+  stroke: #fff;
+}
+
+#explanation {
+  position: absolute;
+  top: 260px;
+  left: 305px;
+  width: 140px;
+  text-align: center;
+  color: #666;
+  z-index: 10;
+}
+
+#percentage {
+  font-size: 2.5em;
+}
+.left-col {
+  width: 50%;
+  min-height: 200px;
+  border-right: 1px solid red;
+  float: left;
+  padding-left: 100px;
+  padding-right: 100px;
+  box-sizing: border-box;
+}
+
+.right-col {
+  width: 50%;
+  min-height: 200px;
+  float: right;
+  padding-left: 100px;
+  padding-right: 100px;
+
+}

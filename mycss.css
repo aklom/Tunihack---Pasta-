@@ -1,0 +1,72 @@
+.zieda {
+    margin-left: 2vw;
+    margin-right: 6vw;
+    text-align: right;
+}
+
+.zieda h3 {
+    font-size: 4vh;
+    margin-top: 4vh;
+    margin-right: 3vw;
+}
+
+.zieda h2 {
+    margin-top: 0vh;
+    font-size: 5vh;
+}
+
+.inline {
+    display: inline-block;
+    margin-left: 5vw;
+    margin-right: 5vw;
+    margin-top: 10vh;
+}
+
+.image {
+    width: 16vh;
+}
+
+.odometer {
+    font-size: 8vh;
+}
+
+.title {
+    font-size: 5vh;
+}
+
+.left-col1 {
+    float: left;
+    margin-left: 6vw;
+
+}
+
+.right-col1 {
+    text-align: right;
+    float: right;
+    margin-right: 20vw;
+
+
+}
+right-col1 h1{
+    font-size: 3vh;
+}
+
+
+.inline1 h1 {
+    margin-right: 3vw;
+    margin-top: 8vh;
+
+}
+
+.inline1 {
+    display: inline-block;
+}
+
+.bg {
+    position: absolute; 
+}
+
+#fullpage {
+    position: relative; 
+    
+}
